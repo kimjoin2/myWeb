@@ -12,7 +12,7 @@ right-body's width is 150px
 <div>
     <div style="height:150px; width:100%;">
         calendar
-    </divs>
+    </div>
     <div style="width:100%;">
         add
     </div>
