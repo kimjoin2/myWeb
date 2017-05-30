@@ -6,11 +6,14 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
-<head>
-    <title>Title</title>
-</head>
-<body>
-right-body
-</body>
-</html>
+<%--
+right-body's width is 150px
+--%>
+<div>
+    <div style="height:150px; width:100%;">
+        calendar
+    </divs>
+    <div style="width:100%;">
+        add
+    </div>
+</div>

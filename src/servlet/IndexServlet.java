@@ -13,6 +13,7 @@ import java.io.IOException;
  *
  * Created by bumskim on 2017. 5. 26..
  * this servlet is for welcome page
+ * @version 1.0.0
  */
 @WebServlet(name = "IndexServlet", urlPatterns = "/")
 public class IndexServlet extends HttpServlet {
