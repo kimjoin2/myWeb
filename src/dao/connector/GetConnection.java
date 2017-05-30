@@ -4,7 +4,9 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
+ *
  * Created by bumskim on 2017. 5. 30..
+ * this class is for get connection object to connect to local mysql
  */
 public class GetConnection {
     static public final GetConnection instance = new GetConnection();
